@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+.p{
+    border: 5px solid gray;
+    border-radius: 5px;
+    margin: 50px auto;
+    width: 30%;
+}
+.q{
+    border: 5px solid gray;
+    width: 40%;
+    padding: 15px;
+}
+table tr td{
+    border: 1px solid black;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 300px;
+    width: 400px;
+    align-items: center;
+}
+.c{
+    border: 5px solid gray;
+    border-radius: 5px;
+    margin: 50px auto;
+    width: 30%;
+    padding: 25px;
+}

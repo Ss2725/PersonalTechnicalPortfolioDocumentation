@@ -1,0 +1,15 @@
+body{
+    background-color: whitesmoke;
+    color: black;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 20px;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}
